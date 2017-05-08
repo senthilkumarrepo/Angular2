@@ -18,6 +18,11 @@ Angular2 Learning :
   1. https://angular.io/
   2. http://learnangular2.com/lifecycle/
   
+Blogs :
+
+http://blog.mgechev.com/about/ 
+https://www.bennadel.com/blog/3088-native-key-combination-event-binding-support-in-angular-2-beta-17.htm  
+  
 Auto Complete :
 
 https://github.com/leonardohjines/angular2-autocomplete/
@@ -38,11 +43,6 @@ https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c
 AOT : (Ahead of Time)
 
 http://stackoverflow.com/questions/36210578/gulp-4-typescript-compilation-errors 
-
-Blogs :
-
-http://blog.mgechev.com/about/
-https://www.bennadel.com/blog/3088-native-key-combination-event-binding-support-in-angular-2-beta-17.htm
 
 Zones :
 

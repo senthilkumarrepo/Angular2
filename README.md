@@ -10,7 +10,8 @@ Angular2 Topics
 6. HTTP,
 7. Zones,
 8. Lazy Loading,
-9. AOT
+9. AOT,
+10. Unit Testing
 
 Useful Links :
 

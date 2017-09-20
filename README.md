@@ -2,27 +2,29 @@
 
 Angular2 Topics
 
-1. Installation and Environment Setup,
-2. Tree Structure(app, main.ts, ...),
-3. Architecture,
-4. Lifecycle Hooks(ngOnInit, ngAfterView,..., ngOnDestroy),
-5. Modules(To include Components, Templates, Directive, Services),
-6. Components(Interface, View Child),
-7. Templates,
-8. Metadata,
-9. Data Binding(Twoway Data Binding [()] ),
-10. Directives,
-11. Services,
-12. Dependency Injection,
-13. Pipes,
-14. Forms(Norma Form, Reactive Form),
-15. Routing(Routes[]),
-16. HTTP(Promise, Observable(rxjs)),
-17. Zones(click event -> zones -> function),
-18. Lazy Loading(performance),
-19. AOT vs JIT(Ahead of Time  vs Just in Time),
-20. Unit Testing,
-21. E2E Testing
+1. Installation,
+2. Environment Setup,
+3. Tree Structure(app, main.ts, ...),
+4. Architecture,
+5. Lifecycle Hooks(ngOnInit, ngAfterView,..., ngOnDestroy),
+6. Modules(To include Components, Templates, Directive, Services),
+7. Components(Interface, View Child),
+8. Component Ineraction(Input, Output),
+9. Templates,
+10. Metadata,
+11. Data Binding(Twoway Data Binding [()] . [] - property binding, () - event binding),
+12. Directives,
+13. Services,
+14. Dependency Injection,
+15. Pipes,
+16. Forms(Norma Form, Reactive Form),
+17. Routing(Routes[]),
+18. HTTP(Promise, Observable(rxjs)),
+19. Zones(click event -> zones -> function),
+20. Lazy Loading(performance),
+21. AOT vs JIT(Ahead of Time  vs Just in Time),
+22. Unit Testing,
+23. E2E Testing
 
 
 Useful Links :
@@ -30,6 +32,7 @@ Useful Links :
 Angular2 Learning :
   1. https://angular.io/
   2. http://learnangular2.com/lifecycle/
+  3. http://www.concretepage.com/angular-2/angular-2-input-and-output-example
   
 Blogs :
 

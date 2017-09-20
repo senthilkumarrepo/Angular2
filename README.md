@@ -17,7 +17,7 @@ Angular2 Topics
 13. Services,
 14. Dependency Injection,
 15. Pipes,
-16. Forms(Norma Form, Reactive Form),
+16. Forms(Normal Form, Reactive Form),
 17. Routing(Routes[]),
 18. HTTP(Promise, Observable(rxjs)),
 19. Zones(click event -> zones -> function),
@@ -32,13 +32,16 @@ Useful Links :
 Angular2 Learning :
   1. https://angular.io/
   2. http://learnangular2.com/lifecycle/
-  3. http://www.concretepage.com/angular-2/angular-2-input-and-output-example
   
 Blogs :
 
 http://blog.mgechev.com/about/ 
 
 https://www.bennadel.com/blog/3088-native-key-combination-event-binding-support-in-angular-2-beta-17.htm
+
+Component Interaction(Input and Output) :
+
+http://www.concretepage.com/angular-2/angular-2-input-and-output-example
 
 Performace :
 

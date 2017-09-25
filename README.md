@@ -13,9 +13,9 @@ Angular2 Topics
 9. Templates,
 10. Metadata,
 11. Data Binding(Twoway Data Binding [()] . [] - property binding, () - event binding),
-12. Directives,
-13. Services,
-14. Dependency Injection,
+12. Data Rendering(Rendering - {{}}),
+13. Directives,
+14. Services,Dependency Injection,
 15. Pipes,
 16. Forms(Normal Form, Reactive Form),
 17. Routing(Routes[]),
@@ -33,6 +33,9 @@ Angular2 Learning :
   1. https://angular.io/
   2. http://learnangular2.com/lifecycle/
   
+Installation and Environment Setup :
+http://www.geekhours.com/2016/07/25/creating-your-first-angular-2-app-detailed-step-by-step-tutorial/
+
 Blogs :
 
 http://blog.mgechev.com/about/ 

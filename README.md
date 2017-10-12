@@ -11,7 +11,7 @@ Angular2 Topics
 7. Components(Constructor, Interface, View Child),
 8. Component Ineraction(Input, Output),
 9. Templates,
-10. Metadata,
+10. Metadata, CSS,
 11. Data Binding(Twoway Data Binding [()] . [] - property binding, () - event binding),
 12. Data Rendering(Rendering - {{}}),
 13. Directives,

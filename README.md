@@ -4,11 +4,11 @@ Angular2 Topics
 
 1. Installation,
 2. Environment Setup,
-3. Tree Structure(app, main.ts, ...),
+3. Tree Structure(app, app.component.html, app.component.ts, app.module.ts, app.routes.ts, main.ts, main-prod.ts, system-config.ts),
 4. Architecture,
 5. Lifecycle Hooks(ngOnInit, ngAfterView,..., ngOnDestroy),
 6. Modules(To include Components, Templates, Directive, Services),
-7. Components(Interface, View Child),
+7. Components(Constructor, Interface, View Child),
 8. Component Ineraction(Input, Output),
 9. Templates,
 10. Metadata,

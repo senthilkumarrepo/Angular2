@@ -1,6 +1,6 @@
-# Angular2-Topics
+# Angular2
 
-Angular2 Topics
+Angular2
 
 1. Installation,
 2. Environment Setup,

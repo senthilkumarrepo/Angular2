@@ -13,7 +13,7 @@ Angular2
 9. Templates,
 10. Metadata, CSS,
 11. Data Binding(Twoway Data Binding [()] . [] - property binding, () - event binding),
-12. Data Rendering(Rendering - {{}}),
+12. Data Rendering(Rendering - {{}}) or Interpolation vs Property Binding,
 13. Directives,
 14. Services,Dependency Injection,
 15. Pipes,

@@ -1,6 +1,6 @@
 # Angular2
 
-Angular2
+Angular2/ Angular
 
 1. Installation,
 2. Environment Setup,
@@ -9,22 +9,25 @@ Angular2
 5. Lifecycle Hooks(ngOnInit, ngAfterView,..., ngOnDestroy),
 6. Modules(To include Components, Templates, Directive, Services),
 7. Components(Constructor, Interface, View Child),
-8. Component Ineraction(Input, Output),
+8. Component Ineraction(Parent to Child - Input, Child to Parent - Output),
 9. Templates,
 10. Metadata, CSS,
 11. Data Binding(Twoway Data Binding [()] . [] - property binding, () - event binding),
 12. Data Rendering(Rendering - {{}}) or Interpolation vs Property Binding,
-13. Directives,
-14. Services,Dependency Injection,
-15. Pipes,
-16. Forms(Normal Form, Reactive Form),
-17. Routing(Routes[]),
-18. HTTP(Promise, Observable(rxjs)),
-19. Zones(click event -> zones -> function),
-20. Lazy Loading(performance),
-21. AOT vs JIT(Ahead of Time  vs Just in Time),
-22. Unit Testing,
-23. E2E Testing
+13. Forms(Normal Form, Reactive Form),
+14. Dynamic Value Parsing/ Form Validation,
+15. Directives,
+16. Services, Dependency Injection,
+17. Pipes,
+18. Routing(Routes[]),
+19. HTTP(Promise, Observable(rxjs)),
+20. Passing Token to API,
+21. Zones(click event -> zones -> function),
+22. Lazy Loading(performance),
+23. AOT vs JIT(Ahead of Time  vs Just in Time),
+24. Unit Testing(Jasmine/Karma),
+25. E2E Testing,
+26. Angular Material Design
 
 
 Useful Links :
